@@ -1,2 +1,2 @@
-# C-toolsClass
-里面包含断网检测功能、MQTT订阅发布功能以及log4net的日志记录功能
+ToolsProject
+这是一个工具类，包含网络检测、日志记录以及MQTT的订阅发布功能整合。
